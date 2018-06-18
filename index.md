@@ -1,5 +1,5 @@
 ## Welcome
-I am a postdoctoral researcher at the University of Louisville. I am working to understand the epoch or reionization by studying very high-redshift Lyman alpha emitters.
+I am a postdoctoral researcher at the [University of Louisville](louisville.edu). I am working to understand the epoch or reionization by studying very high-redshift Lyman alpha emitters.
 
 I recently completed my Ph.D. working with Dr. Caryl Gronwall at the Department of Astronomy & Astrophysics at Pennsylvania State University. I studied star-forming galaxies via their emission lines.  My work spanned a very large redshift range, from the local universe to some of the first galaxies at z = 6. I was also a part of the [Hobby Eberly Telescope Dark Energy Experiment](hetdex.org) (HETDEX) that will measure changes in the expansion rate of the universe using baryon acoustic oscillations.  
 
