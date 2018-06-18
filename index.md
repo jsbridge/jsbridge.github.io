@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
+I am a postdoctoral researcher at the University of Louisville. I am working to understand the epoch or reionization by studying very high-redshift Lyman alpha emitters.
 
-You can use the [editor on GitHub](https://github.com/jsbridge/jsbridge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I recently completed my Ph.D. working with Dr. Caryl Gronwall at the Department of Astronomy & Astrophysics at Pennsylvania State University. I studied star-forming galaxies via their emission lines.  My work spanned a very large redshift range, from the local universe to some of the first galaxies at z = 6. I was also a part of the Hobby Eberly Telescope Dark Energy Experiment (HETDEX) that will measure changes in the expansion rate of the universe using baryon acoustic oscillations.  To read more about my work, click here!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsbridge/jsbridge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am also interested in science policy and communication. I have written for Astrobites – a website with daily paper summaries for non-experts as well as career advice, general astronomy knowledge, computing, etc. I have also participated in the American Astronomical Society’s Congressional Visits Day, where we spent time speaking with our congresspeople in Washington about the importance of science funding and infrastructure.  I recommend anyone interested in science policy apply to participate in that endeavor.
